@@ -1,2 +1,2 @@
-# dockers
-Docker environments
+# Dockers
+Dockerfiles for various development environments
